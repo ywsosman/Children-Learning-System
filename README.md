@@ -278,6 +278,3 @@ python python/yolo_tuio_bridge.py --model runs/detect/train/weights/best.pt
 * **OSC.NET**: Utilizes the OpenSound Control library with modifications.
 * **Deep Learning Frameworks**: Built using [MediaPipe](https://google.github.io/mediapipe/) and [Ultralytics YOLO11](https://github.com/ultralytics/ultralytics).
 
----
-
-Developed with ❤️ for Human-Computer Interaction Labs. For feedback, feature requests, or contributions, feel free to open a Pull Request or issue!
