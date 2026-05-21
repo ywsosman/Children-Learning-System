@@ -1,5 +1,4 @@
-# 🌟 Multi-Modal Interactive HCI Framework
-### TUIO Tangible Tables × YOLO Deep Learning × MediaPipe Hand Gesture & Gaze Tracking
+
 
 [![Build Status](https://img.shields.io/badge/Build-C%23%20.NET-blue?logo=dotnet)](https://dotnet.microsoft.com/)
 [![Computer Vision](https://img.shields.io/badge/Python-3.11%2F3.12-green?logo=python&logoColor=yellow)](https://www.python.org/)
